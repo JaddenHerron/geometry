@@ -1,0 +1,11 @@
+{
+  "Name": "debug",
+  "ClassName": "Part",
+  "Properties": {
+    "Anchored": true,
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Transparency": 0.5
+  }
+}

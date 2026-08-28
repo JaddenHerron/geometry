@@ -1,0 +1,12 @@
+{
+  "name": "geometry",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "geometry": {
+        "$path": "geometry"
+      }
+    }
+  }
+}
