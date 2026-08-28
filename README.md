@@ -31,4 +31,4 @@ print(ray.direction)  -- unit direction
 print(ray.length)     -- distance
 ```
 
-##etc.##
+## etc.
