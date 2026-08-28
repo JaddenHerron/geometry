@@ -1,4 +1,5 @@
-** geometry
+**geometry
+
 A lightweight Luau util module for Roblox for Bezier curves and spatial/vector math w/ easing.
 
 ## Usage
