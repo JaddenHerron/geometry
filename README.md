@@ -113,19 +113,6 @@ The fourth parameter is a function that runs once the curve has finished.
 The fifth and optional parameter controls the maximum value that `t` can reach.
 By default, the maximum value is `1`.
 
-Now you can use the current value of t to calculate the object's position along
-the Bezier curve.
-
-```lua
-geometry.new(1, "quadOut", function(t, dt)
-    local position = geometry.bezier.generic(points, t)
-
-    part.Position = position
-end, function()
-    print("done")
-end)
-```
-
 **Cast a directional ray:**
 
 `directionalRay` (and `ray`, which takes two points instead of an origin + direction) return a table with `get`, `cast`, `vector`, `direction`, and `length`:
