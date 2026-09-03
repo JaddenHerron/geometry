@@ -111,6 +111,8 @@ Each time this function runs, `t` is updated.
 - `t = 0` represents the beginning of the curve.
 - `t = 0.5` represents a position somewhere around the middle.
 - `t = 1` represents the end of the curve
+- 
+`dt` represents the amount of time that has passed since the previous physics update.
 
 **Completion Function**
 
