@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/49f86cf0-923d-4b11-bdbf-534a9c0d1ca0
 - Lightweight and efficient.
 - Rotation and orientation helpers.
 - Easing styles for unique movement.
-- 
+  
 ## What are Bezier curves?
 
 A Bezier curve is a smooth path that can be controlled using points. 
