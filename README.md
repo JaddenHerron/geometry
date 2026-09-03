@@ -1,4 +1,4 @@
-## geometry
+# geometry
 
 A lightweight Luau util module for Roblox for `Bezier curves` and `spatial/vector` math w/ `easing`.
 
@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/49f86cf0-923d-4b11-bdbf-534a9c0d1ca0
 - Rotation and orientation helpers.
 - Easing styles for unique movement.
 - 
-# What are Bezier curves?
+## What are Bezier curves?
 
 A Bezier curve is a smooth path that can be controlled using points. 
 
@@ -23,7 +23,7 @@ skill that requires the character to follow a specific movement path.
 
 ## Usage
 
-# Basic Bezier Example
+### Basic Bezier Example
 
 First, require the module.
 
@@ -111,7 +111,7 @@ The fourth parameter is a function that runs once the curve has finished.
 The fifth and optional parameter controls the maximum value that `t` can reach.
 By default, the maximum value is `1`.
 
-# Cast a directional ray:
+### Cast a directional ray:
 
 `directionalRay` (and `ray`, which takes two points instead of an origin + direction) return a table with `get`, `cast`, `vector`, `direction`, and `length`:
 
