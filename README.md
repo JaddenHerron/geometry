@@ -2,8 +2,7 @@
 
 A lightweight Luau util module for Roblox for `Bezier curves` and `spatial/vector` math w/ `easing`.
 
-## Example:
-https://github.com/user-attachments/assets/4a8512d5-8c44-4846-b44f-8d370f619a49
+https://github.com/user-attachments/assets/49f86cf0-923d-4b11-bdbf-534a9c0d1ca0
 
 ## Usage
 
