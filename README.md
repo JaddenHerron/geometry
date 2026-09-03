@@ -107,7 +107,8 @@ Each time this function runs, `t` is updated.
 
 The fourth parameter is a function that runs once the curve has finished.
 
-*Max Progress*
+**Max Progress**
+
 The fifth and optional parameter controls the maximum value that `t` can reach.
 By default, the maximum value is `1`.
 
