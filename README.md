@@ -90,12 +90,18 @@ end)
 ```
 
 **Duration**
+
 The first parameter controls how long the movement lasts.
-```lua geometry.new(1, ...) ```
+```lua 
+geometry.new(1, ...)
+```
 
 **Easing Style**
+
 The second parameter controls how the movement progresses over time.
-```lua geometry.new(1, "quadOut", ...)```
+```lua 
+geometry.new(1, "quadOut", ...)
+```
 
 Easing styles can make the movement accelerate, decelerate, or change speed throughout the curve.
 
@@ -107,6 +113,7 @@ Each time this function runs, `t` is updated.
 - `t = 1` represents the end of the curve
 
 **Completion Function**
+
 The fourth parameter is a function that runs once the curve has finished.
 
 *Max Progress*
